@@ -1,3 +1,6 @@
+![Programming Fundamentals with JS - January 2022 - Certificate](https://user-images.githubusercontent.com/98184923/172069457-aa845d56-980b-4d83-a264-12be6e1585b8.jpeg)
+
+
 # Programming Fundamentals with JavaScript
 
 ## Course Description
@@ -13,4 +16,3 @@
 * Basic skills for working with HTML and CSS
 * Working with linear data structures
 
-![Programming Fundamentals with JS - January 2022 - Certificate](https://user-images.githubusercontent.com/98184923/172069457-aa845d56-980b-4d83-a264-12be6e1585b8.jpeg)
